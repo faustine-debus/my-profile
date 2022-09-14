@@ -1,0 +1,288 @@
+body {
+font-family: Courier, monospace;
+text-align: center;
+}
+
+h1 {
+    color: #001D6E;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h2 {
+    color: #277BC0;
+}
+
+img{
+    border-color: #3120E0;
+}
+
+li{
+    color: #180A0A;
+}
+
+p{
+    color: #180A0A;
+}
+
+img{
+    border-radius: 50%;
+}
+
+#premier{
+    color: #A760FF;
+}
+
+#deuxieme{
+    color: #242F9B;
+}
+
+#trois{
+    color: #646FD4;
+}
+
+#quatre{
+    color: #92B4EC;
+}
+
+#six{
+    color: #C4DDFF;
+}
+
+#cinq{
+    color: #5CB8E4;
+}
+
+#neuf{
+    color: #7FB5FF;
+}
+
+#photo-ytb{
+    height: 60px;
+    width: 60px;
+}
+
+#photo-julun{
+    height: 300px;
+    width: 300px;
+}
+
+#photo-juldeux{
+    height: 300px;
+    width: 300px;
+}
+
+#photo-jultrois{
+    height: 300px;
+    width: 300px;
+}
+
+#photo-julquatre{
+    height: 300px;
+    width: 300px;
+}
+
+#photo-insta{
+    height: 60px;
+    width: 60px;
+}
+
+#un{
+    color: #0E3EDA;
+}
+
+#police{
+    color: #ABD9FF;
+}
+
+#autre{
+    color: #4D77FF;
+}
+
+#suivant{
+    color: #6FB2D2;
+}
+
+#other{
+    color: #5EE6EB;
+}
+
+#another{
+    color: #42C2FF;
+}
+
+#uno{
+    color: #645CAA;
+}
+
+#dos{
+    color: #A084CA;
+}
+
+#tres{
+    color: #A460ED;
+}
+
+#quatro{
+    color: #8758FF;
+}
+
+#cinco{
+    color: #B1B2FF;
+}
+
+#seis{
+    color: #F07DEA;
+}
+
+#photo-twitter{
+    height: 60px;
+    width: 60px;
+}
+
+#fond-ecran{
+    height: 100vh;
+    width: 100vw;
+    z-index: -2;
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-radius: 0;
+    opacity: 0.4;
+}
+
+#produitun{
+    height: 200px;
+    width: 200px;
+}
+
+#produitdeux{
+    height: 200px;
+    width: 200px;
+}
+
+#produittrois{
+    height: 200px;
+    width: 200px;
+}
+
+#produitquatre{
+    height: 200px;
+    width: 200px;
+}
+
+#produit{
+    height: 200px;
+    width: 200px;
+}
+
+#produitsix{
+    height: 200px;
+    width: 200px;
+}
+
+div{
+    border: 8px solid #ABC9FF;
+}
+
+#one{
+    color: #FF6FB5;
+}
+
+#two{
+    color: #E78EA9;
+}
+
+#three{
+    color: #F900BF;
+}
+
+#four{
+    color: #9900F0;
+}
+
+#five{
+    color: #8479E1;
+}
+
+#seven{
+    color: #56BBF1;
+}
+
+#eight{
+    color: #6FB2D2;
+}
+
+#nine{
+    color: #4D77FF;
+}
+
+#ten{
+    color: #0E3EDA;
+}
+
+div{
+    background-color: white(255, 166, 0, 0.233);
+    opacity: 1;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+    width: 900px;
+    box-shadow: 1px 1px 10px #001D6E;
+}
+
+
+#prems{
+    text-align: center;
+}
+
+#deus{
+    text-align: center;
+}
+
+#trees{
+    text-align: center;
+}
+
+#icons{
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+}
+
+#divun{
+    border: 6px solid #9FC9F3;
+}
+
+#divdeux{
+    border : 6px solid  #A460ED;
+}
+
+#divtrois{
+    border: 6px solid #F07DEA;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+}
+
+#son{
+    text-align: centers;
+}
+
+
+
+
+
+
+
+
+
+
